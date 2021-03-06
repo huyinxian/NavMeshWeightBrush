@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b4c32e1429418ab3ac52262e649c70, type: 3}
+  m_Name: NavMeshWeightAssets
+  m_EditorClassIdentifier: 
+  datas:
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 12.124603, y: 0, z: 22.47952}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 14.780677, y: 0, z: 19.456244}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 17.606245, y: 0.0005283356, z: 16.773027}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 20.513151, y: 0.068118095, z: 14.017849}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 22.289436, y: 0, z: 10.457656}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 21.199108, y: 0, z: 7.1294036}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 18.275684, y: 0, z: 4.961252}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 14.504002, y: 0, z: 3.9371583}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 11.041978, y: 0, z: 4.544569}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 8.987488, y: 1.2490292, z: 7.3814507}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 9.63466, y: 0.75230026, z: 11.251601}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 12.865274, y: 0.0000009536743, z: 12.375544}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 16.341724, y: 0, z: 10.469159}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 10.923584, y: 0.0000009536743, z: 15.720258}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 7.5813813, y: 0.14873695, z: 17.12954}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
+  - brush: {fileID: 6473734935770046891, guid: 18d6a44142bc64528bb6d496501a681e, type: 3}
+    position: {x: 4.4402504, y: 0, z: 18.996138}
+    localScale: {x: 0.05, y: 0.05, z: 0.05}
