@@ -1,2 +1,3 @@
 # NavMeshWeightBrush
- Used to adjust the weight of NavMesh
+
+This is a tool for adjusting the weight of navmesh.
